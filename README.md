@@ -2,6 +2,6 @@
 # «Методы создания ландшафта и его элементов в трёхмерном движке Unreal Engine 4»
 ## Материалы
 Готовые проекты можно загрузить из облака: </br>
-- [Реалистичный пейзаж гор](https://disk.yandex.ru/d/xjf8i-dsc4x7gw/)
-- [Реалистичный пейзаж реки с кастомным материалом воды](https://disk.yandex.ru/d/twEH8pbVlCxP5g/)
-- [Реалистичный пейзаж города с дождливой погодой](https://disk.yandex.ru/d/jIKpnvFg0Cf0kg/)
+- [Реалистичный пейзаж гор](https://disk.yandex.ru/d/g7XyeuG8jIAv8Q/)
+- [Реалистичный пейзаж реки с кастомным материалом воды](https://disk.yandex.ru/d/KDL6LJfFa7nveA/)
+- [Реалистичный пейзаж города с дождливой погодой](https://disk.yandex.ru/d/zA1-xDGbabFlgw/)
